@@ -1,0 +1,18 @@
+1. grep hom.*ds p*
+    It's going to match any words start with character "hom" the fourth character can be any letters, numbers, or symbols from a file name starts with p.
+2. grep "70" peopleonEarth.txt
+3. grep "^[tT]" peopleonEarth.txt
+4. grep "4$" peopleonEarth.txt
+5. grep "people" peopleonEarth.txt
+6. grep "4" peopleonEarth.txt
+7. grep "4," peopleonEarth.txt
+8. grep ",4" peopleonEarth.txt
+9. grep "4,." peopleonEarth.txt
+10. grep -E "I|T" peopleonEarth.txt
+11. grep -E "[a-z+]" peopleonEarth.txt
+12. grep "[a-z+] [A-Z]" peopleonEarth.txt
+13. grep "ss* " peopleonEarth.txt
+14. grep -E "[a-z]{8,}" peopleonEarth.txt
+15. grep -E "\<human" peopleonEarth.txt
+16. grep -E "\<million\>" peopleonEarth.txt
+17. grep -E "\<[a-z][A-Za-z]{1,}t\>" peopleonEarth.txt
