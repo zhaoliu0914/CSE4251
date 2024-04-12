@@ -1,8 +1,8 @@
 # CSE 4251 UNIX Programming Environment
 Introduction to the UNIX programming environment including shell programming (csh)\
-regular expressions\
-makefiles\
-grep, sed, and awk programming languages
+Regular expressions\
+Makefiles\
+Grep, sed, and awk programming languages
 
 ## Learning Objectives
 - Be familiar with csh programming.
